@@ -71,3 +71,15 @@ button:hover{
 button:active{
     transform: scale(1);
 }
+
+@media (max-width:600px){
+  .container{
+  width: 90vw;
+  padding:20px;
+  border-radius: 10px;
+  box-shadow:none;
+  }
+  .cals-text p{
+    font-size: 2rem;
+  }
+}
