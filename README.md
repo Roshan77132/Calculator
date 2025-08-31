@@ -7,5 +7,5 @@ As simple just design for the layout concept and the simple calculation.
  Equals (=) for Result
  Error Handling (e.g., division by zero)
  # uses 
-<img width="1028" height="792" alt="image" src="https://github.com/user-attachments/assets/533a2c94-a061-4445-8b15-de02ce97ad3a" />
-<img width="623" height="677" alt="image" src="https://github.com/user-attachments/assets/c51c2c68-a905-405a-8f50-2ce14687e01e" />
+<img width="639" height="739" alt="image" src="https://github.com/user-attachments/assets/976af4de-f004-4b9d-a312-79b89164ac31" />
+<img width="497" height="701" alt="image" src="https://github.com/user-attachments/assets/957eb237-c4b8-44ee-99eb-a26c7d2f8def" />
